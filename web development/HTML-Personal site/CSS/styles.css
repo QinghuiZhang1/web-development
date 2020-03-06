@@ -15,6 +15,16 @@ h1 {
   color: red;
 }
 
+h1:hover {
+  color: gray;
+}
+
+img:hover {
+  background-color: green;
+  border-radius: 100;
+}
+
+/*Set CSS by class*/
 .nature-img {
   width: auto;
   height: 250px;
